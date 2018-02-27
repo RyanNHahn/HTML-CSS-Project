@@ -2,6 +2,8 @@
 
 *__Building Google.com__*
 
+![Google Homepage](images/google.png)
+
 ## Introduction
 
 For this mini-project, you’ll deconstruct an existing web page and rebuild it. Don’t worry if the links don’t go anywhere and the search box doesn’t do anything when you submit it. The goal is to start thinking about how elements get placed on the page and roughly how they get styled and aligned. For some of you, this may be the first time you’ve actually tried to “build” something in HTML (very exciting!).
@@ -13,8 +15,11 @@ Using the browser’s developer tools (right clicking something on the page and 
 Your first step here is to create your repository using GitHub Desktop.
 
 1. Open GitHub Desktop.
+
 2. From the File menu, choose **New Repository**.
+
 3. Give your repository the name `Google Homepage` and click **Create Repository**.
+
 4. Open your new repository in Atom.
 
 Be sure to save and commit often (at least at the end of each class). The more you commit the more options you have to go back on if something doesn't work the way you intended it to.
@@ -39,3 +44,19 @@ Next do the navbar across the top, first building the content and then trying to
 
 - Finally, put in the footer, which should be very similar to the top navbar.
 In general, do as much on your own as you can before relying on the developer tools (or viewing the page’s source code) to help you along.
+
+## Viewing Your Work on the Web
+
+Github allows you to publish web projects directly from a github repository. Doing this will allow you to access your project from `your-gh-username.github.io/your-github-repo-name`
+
+There are a couple of ways to go about doing this, but the simplest is this:
+
+1. Make sure that the main html file of your project is called **index.html**. If it is not, you will need to rename it.
+
+2. Go to your github repo on the web and click the **Settings** button
+
+3. Scroll down until you find the **GitHub Pages** section
+
+4. Change the Source from **none** to **master** branch and click **Save**
+
+  - It may take a few minutes (the GitHub website says up to 10) but your project should be accessible over the web from `your-gh-username.github.io/your-github-repo-name` (obviously substituting your own details in the link)
