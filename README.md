@@ -18,7 +18,7 @@ Your first step here is to create your repository using GitHub Desktop.
 
 2. From the File menu, choose **New Repository**.
 
-3. Give your repository the name `Google Homepage` and click **Create Repository**.
+3. Give your repository the name `GoogleRedo` and click **Create Repository**.
 
 4. Open your new repository in Atom.
 
@@ -42,8 +42,7 @@ Build the Google.com homepage *(the simple one with just a search box)*
 - Start with just putting the main elements on the page (the logo image and search form), then get them placed horizontally. You can either download the Google logo or link directly to its URL on the web in your <img> tag.
 Next do the navbar across the top, first building the content and then trying to position it. Check out how to build a horizontal CSS navbar if you’re lost.
 
-- Finally, put in the footer, which should be very similar to the top navbar.
-In general, do as much on your own as you can before relying on the developer tools (or viewing the page’s source code) to help you along.
+- Finally, put in the footer, which should be very similar to the top navbar. In general, do as much on your own as you can before relying on the developer tools (or viewing the page’s source code) to help you along.
 
 ## Viewing Your Work on the Web
 
@@ -60,3 +59,11 @@ There are a couple of ways to go about doing this, but the simplest is this:
 4. Change the Source from **none** to **master** branch and click **Save**
 
   - It may take a few minutes (the GitHub website says up to 10) but your project should be accessible over the web from `your-gh-username.github.io/your-github-repo-name` (obviously substituting your own details in the link)
+
+## Other Tips
+
+- Save and commit often!
+
+- Look up what you don't know!
+
+- Don't be afraid to ask questions
